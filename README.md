@@ -1,5 +1,26 @@
-# 前端招聘
+## 初试题目
 
+根据下面三个链接：
+
+- https://github.com/levy9527/nuxt-element-dashboard
+- https://github.com/FEMessage/el-data-table
+- https://github.com/FEMessage/yapi
+
+做个如下图所示的页面
+
+![](https://deepexi-moby.oss-cn-shenzhen.aliyuncs.com/example.png)
+
+如果完成，则经过初步筛选，可以发送完成截图或代码地址，再附上简历到这个邮箱
+
+levy9527@dingtalk.com
+
+## 偷懒
+
+如果有作品，或者 Github 有 Stars 超过 100 的项目，直接给我，说明你充当的角色，我会去看代码；
+
+如果有 Stars 超过 500 的前端项目，我们直接聊聊吧。谈谈你想要的。
+
+## 介绍
 一句话介绍我们的产品：面向大型企业的DevOps平台。
 
 所以我们面向的都是大B客户，我们给企业提供平台，工具，提高他们的研发，运维效率，帮他们做微服务架构，给企业做中台，加速企业的数字化转型。
@@ -46,20 +67,3 @@
 4. 弹性工作： 早上10:00点上班，双休
 5. 免费读书计划
 6. 长期培训课程
-
-## 初试题目
-
-根据下面三个链接：
-
-- https://github.com/levy9527/nuxt-element-dashboard
-- https://github.com/FEMessage/el-data-table
-- https://github.com/FEMessage/yapi
-
-做个如下图所示的页面
-
-![](https://deepexi-moby.oss-cn-shenzhen.aliyuncs.com/example.png)
-
-如果完成，则经过初步筛选，可以发送完成截图或代码地址，再附上简历到这个邮箱
-
-levy9527@dingtalk.com
-
