@@ -6,9 +6,16 @@
 - https://github.com/FEMessage/el-data-table
 - https://github.com/FEMessage/yapi
 
-做个如下图所示的页面
+做如下图所示的页面
 
 ![](https://deepexi-moby.oss-cn-shenzhen.aliyuncs.com/example.png)
+
+要求:
+
+- 在第一个链接的工程里开发 
+- 访问 http://localhost:3000/#/el-data-table 可看到表格页
+- el-data-table实现了CRUD接口
+- el-data-table的url参数为相对路径
 
 如果完成，则经过初步筛选，可以发送完成截图或代码地址，再附上简历到这个邮箱
 
@@ -32,7 +39,7 @@ levy9527@dingtalk.com
 
 工作地点：广州，成都，南京
 
-## 要求
+## 技能
 
 项目中用 ES6、React、Vue、Node、Nuxt、Yapi 、Rollup,、Webpack,、Yarn。
 
