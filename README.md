@@ -18,7 +18,7 @@
 - el-data-table的url参数为相对路径
 - 三天内完成
 
-如果完成，则经过初步筛选，可以发送完成截图或代码地址，再附上简历到这个邮箱，**领取面试资格**
+如果完成，则经过初步筛选，可以发送完成截图或代码地址，再附上简历到这个邮箱, 说明工作地点，**领取面试资格**
 
 levy9527@dingtalk.com
 
@@ -40,9 +40,21 @@ levy9527@dingtalk.com
 
 工作地点：广州，成都，南京
 
-## 技能
+### 相关链接
 
-项目中用 ES6、React、Vue、Node、Nuxt、Yapi 、Rollup,、Webpack,、Yarn。
+我们的github: [https://github.com/FEMessage](https://github.com/FEMessage)
+
+我们的文章：
+- [📦vue组件发布npm最佳实践](https://juejin.im/post/5b231f6ff265da595f0d2540)
+- [🐠从零开始Docker化你的Node.js应用](https://juejin.im/post/5b2cb6986fb9a00e3a5aa279)
+- [我们的GIT工作流](https://juejin.im/post/5b1f35e4e51d4506a269c23b)
+- [levy的博客](http://levy.work)
+
+欢迎来参与开源贡献、书写高质量文章回馈社区。
+
+### 技能
+
+项目中用 ES6、React、Vue、Node、Nuxt、Yapi 、Rollup,、Webpack,、Yarn, Markdown, Git
 
 不过技术是浮云，生活才是真正的追求。希望能找到一起玩，顺路把事情给做起来的人。我们相信热爱生活的技术人，技术不会差到哪里。而 学历、工龄、性别 、取向等在我们看来大多是个人的事情，一律不做要求。
 
@@ -57,7 +69,7 @@ levy9527@dingtalk.com
 - 对美（程序、设计）有追求
 - 乐于分享
 
-## 方向
+### 方向
 
 - PC
 - Mobile
@@ -67,7 +79,7 @@ levy9527@dingtalk.com
 
 尊重个人意愿，能力匹配者可自由选择
 
-## 待遇
+### 待遇
 
 - 高于业界水平的待遇，12 - 15 个月
 - 试用期：2个月，薪资100%
