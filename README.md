@@ -58,6 +58,7 @@ levy9527@dingtalk.com
 - [levy的博客](http://levy.work)
 - [zhengrunlin的博客](https://www.cnblogs.com/zhengrunlin)
   
+
 欢迎来参与开源贡献、书写高质量文章回馈社区。
 
 ### 技能
@@ -96,3 +97,15 @@ levy9527@dingtalk.com
 - 双屏工作
 - 免费读书计划
 - 长期培训课程
+
+
+
+## 团队风采
+
+- 技术分享
+
+![技术分享](https://i.screenshot.net/7rx6ruo)
+
+- 下午茶
+
+![](https://i.screenshot.net/q6mg6se)
