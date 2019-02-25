@@ -13,6 +13,7 @@
 要求:
 
 - 在第一个链接的工程里开发
+- 使用第二个链接里的组件
 - 访问 http://localhost:3000/#/el-data-table 可看到表格页
 - el-data-table实现了CRUD接口
 - el-data-table的url参数为相对路径
