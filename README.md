@@ -12,7 +12,8 @@
 
 要求:
 
-- 在第一个链接的工程里开发 
+- 在第一个链接的工程里开发
+- 使用第二个链接里的组件
 - 访问 http://localhost:3000/#/el-data-table 可看到表格页
 - el-data-table实现了CRUD接口
 - el-data-table的url参数为相对路径
@@ -56,7 +57,7 @@ levy9527@dingtalk.com
 
 公司正值稳定上升期，目前需要两种人才：
 
-- 精益求精，对技术有品味，有执著追求，热爱开源的人; 
+- 精益求精，对技术有品味，有执著追求，热爱开源的人;
 - 工程能力突出，业务梳理能力强，能把复杂的逻辑理顺，让事情井然有序，在实践中解决问题的人。
 
 工作地点：广州，成都，南京
@@ -71,7 +72,8 @@ levy9527@dingtalk.com
 - [我们的GIT工作流](https://juejin.im/post/5b1f35e4e51d4506a269c23b)
 - [levy的博客](http://levy.work)
 - [zhengrunlin的博客](https://www.cnblogs.com/zhengrunlin)
-  
+- [edgar的博客](https://chenedgar.github.io/)
+- [FPioneer的博客](https://juejin.im/user/5bf34a676fb9a04a0440a0f7)
 
 欢迎来参与开源贡献、书写高质量文章回馈社区。
 
