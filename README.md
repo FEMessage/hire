@@ -29,11 +29,25 @@ levy9527@dingtalk.com
 - 个人简历
 - 期望工作地点
 
+
+
+### 优秀的回复示例
+
+![](https://i.screenshot.net/68164uz)
+![](https://i.screenshot.net/kd3wni0)
+![](https://i.screenshot.net/36dkjcj)
+
 ## 偷懒
 
 如果有作品，或者 Github 有 Stars 超过 100 的项目，直接给我，说明你充当的角色，我会去看代码；
 
 如果有 Stars 超过 500 的前端项目，我们直接聊聊吧。谈谈你想要的。
+
+### 优秀的回复示例
+
+![](https://i.screenshot.net/jr8egcr)
+
+![](https://i.screenshot.net/3v5mrc6)
 
 ## 介绍
 一句话介绍我们的产品：面向大型企业的DevOps平台。
