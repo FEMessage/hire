@@ -123,6 +123,8 @@ levy9527@dingtalk.com
 
 ![技术分享](https://i.screenshot.net/prynrue)
 
+![测试团队](https://i.screenshot.net/73o18sd)
+
 - 下午茶
 
 ![下午茶](https://i.screenshot.net/v6o86sd)
