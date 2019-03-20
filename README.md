@@ -9,7 +9,6 @@
 更多介绍请看[Job Description](job-description.md)
 
 
-
 ## 初试题目
 
 根据下面三个链接：
@@ -29,6 +28,7 @@
 - 访问 http://localhost:3000/#/el-data-table 可看到表格页
 - el-data-table实现了CRUD接口
 - el-data-table的url参数为相对路径
+- 接口没有403的问题(这个问题是有办法解决的，但答案需要自己寻找，希望你能过关)
 - 三天内完成
 
 如果完成，则经过初步筛选，可以发送内容到下面的邮件，**领取面试资格**
