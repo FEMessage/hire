@@ -6,7 +6,9 @@
   - [**做题例子**](#做题例子)
   - [**偷懒例子**](#偷懒例子)
 
-更多介绍请看[Job Description](job-description.md)
+> 更多介绍请看[Job Description](job-description.md)
+>
+> 常见问题请看[FAQ](FAQ.md)
 
 
 ## 初试题目
