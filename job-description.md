@@ -21,11 +21,11 @@
 - [📦vue组件发布npm最佳实践](https://juejin.im/post/5b231f6ff265da595f0d2540)
 - [🐠从零开始Docker化你的Node.js应用](https://juejin.im/post/5b2cb6986fb9a00e3a5aa279)
 - [我们的GIT工作流](https://juejin.im/post/5b1f35e4e51d4506a269c23b)
-- [团队博客](https://femessage.github.io/blog/)
-- [levy的博客](http://levy.work)
+- [levy的博客](https://github.com/levy9527/blog)
 - [zhengrunlin的博客](https://www.cnblogs.com/zhengrunlin)
 - [edgar的博客](https://chenedgar.github.io/)
 - [FPioneer的博客](https://juejin.im/user/5bf34a676fb9a04a0440a0f7)
+- [团队博客：一些分享](https://femessage.github.io/blog/)
 
 欢迎来参与开源贡献、书写高质量文章回馈社区。
 
