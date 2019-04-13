@@ -31,7 +31,7 @@
 
 ### 技能
 
-项目中用 ES6、Vue、Storybook、Taro、Node、Nuxt、Yapi 、Rollup、Webpack,、Yarn、 Markdown、Git
+项目中用 ES6、Vue、Flutter、uni-app、Storybook、Styleguidist、Node、Nuxt、Yapi 、Rollup、Webpack,、Yarn、Markdown、Git
 
 不过技术是浮云，生活才是真正的追求。希望能找到一起玩，顺路把事情给做起来的人。我们相信热爱生活的技术人，技术不会差到哪里。
 
@@ -51,6 +51,7 @@
 - PC
 - Mobile
 - 小程序
+- APP
 - Node
 - 组件研发
 - 技术攻关
