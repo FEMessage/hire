@@ -20,6 +20,7 @@
 
 - [📦vue组件发布npm最佳实践](https://github.com/levy9527/blog/issues/2)
 - [🐠从零开始Docker化你的Node.js应用](https://github.com/levy9527/blog/issues/3)
+- [Github集成Travis CI](https://github.com/levy9527/blog/issues/1)
 - [我们的GIT工作流](https://juejin.im/post/5b1f35e4e51d4506a269c23b)
 - [zhengrunlin的博客](https://www.cnblogs.com/zhengrunlin)
 - [edgar的博客](https://chenedgar.github.io/)
