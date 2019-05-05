@@ -38,7 +38,7 @@
 
 如果完成，则经过初步筛选，可以发送内容到下面的邮件，**领取面试资格**
 
-levy9527@dingtalk.com
+chenriwei@deepexi.com
 
 邮件内容包含：
 
