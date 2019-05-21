@@ -14,6 +14,8 @@
 > 更多介绍请看[Job Description](job-description.md)
 >
 > 常见问题请看[FAQ](FAQ.md)
+> 
+> [团队博客](https://femessage.github.io/blog/)
 
 
 ## 初试题目
