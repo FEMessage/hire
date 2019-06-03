@@ -18,9 +18,11 @@
 
 ### 相关链接
 
-我们的github: [https://github.com/FEMessage](https://github.com/FEMessage)
+- [我们的github](https://github.com/FEMessage)
+- [github博客](https://femessage.github.io/blog/)
+- [知乎专栏](https://zhuanlan.zhihu.com/deepexi-frontend)
 
-我们的文章：
+更多文章：
 
 - [📦vue组件发布npm最佳实践](https://github.com/levy9527/blog/issues/2)
 - [🐠从零开始Docker化你的Node.js应用](https://github.com/levy9527/blog/issues/3)
@@ -29,7 +31,6 @@
 - [zhengrunlin的博客](https://www.cnblogs.com/zhengrunlin)
 - [edgar的博客](https://chenedgar.github.io/)
 - [FPioneer的博客](https://juejin.im/user/5bf34a676fb9a04a0440a0f7)
-- [团队博客：一些分享](https://femessage.github.io/blog/)
 
 欢迎来参与开源贡献、书写高质量文章回馈社区。
 

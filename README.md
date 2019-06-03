@@ -3,6 +3,10 @@
 
 重金招聘开源组件维护者(maintainer)，工作是响应用户需求、规划组件演进方向、进行code review，💰钱不是问题！
 
+- [我们的github](https://github.com/FEMessage)
+- [我们的博客](https://femessage.github.io/blog/)
+- [知乎专栏](https://zhuanlan.zhihu.com/deepexi-frontend)
+
 ## 目录
 
 - **[初试题目](#初试题目)**
