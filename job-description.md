@@ -12,6 +12,8 @@
 
 工作地点：广州，成都，南京
 
+官网：[http://www.deepexi.com/](http://www.deepexi.com/)
+
 媒体报道：
 - [“中国数据智能创新企业50强”榜单发布 滴普科技跻身 TOP20！](https://mp.weixin.qq.com/s/rem7T9MexzNlejyMtt8KxA)
 - [企服快讯 | 进军企业数字化领域，滴普科技半年内累计完成近亿元融资](https://m.3wcoffee.com/qfnews/detail?id=1678&from=timeline&isappinstalled=0)
