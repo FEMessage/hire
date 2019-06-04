@@ -1,0 +1,25 @@
+{
+  "name": "hire",
+  "version": "1.0.0",
+  "description": "前端招聘：有意愿做开源组件、成为组件开发者(developer), 能给我们提Pull Request的优先(可以不做题，不走寻常路😎)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FEMessage/hire.git"
+  },
+  "keywords": [],
+  "author": "levy <levy9527@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FEMessage/hire/issues"
+  },
+  "homepage": "https://github.com/FEMessage/hire#readme",
+  "devDependencies": {
+    "glob": "^7.1.4",
+    "vuepress": "^0.14.11"
+  }
+}
