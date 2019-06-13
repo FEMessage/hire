@@ -31,7 +31,7 @@
 
 做如下图所示的页面
 
-![](https://deepexi-moby.oss-cn-shenzhen.aliyuncs.com/example.png)
+![](https://camo.githubusercontent.com/d3d4fd734bdb1631cf43448d4f963e78b62b2ec2/68747470733a2f2f646565706578692d6d6f62792e6f73732d636e2d7368656e7a68656e2e616c6979756e63732e636f6d2f6578616d706c652e706e67)
 
 基本要求:
 
