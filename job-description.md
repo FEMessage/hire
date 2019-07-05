@@ -17,22 +17,15 @@
 媒体报道：
 - [“中国数据智能创新企业50强”榜单发布 滴普科技跻身 TOP20！](https://mp.weixin.qq.com/s/rem7T9MexzNlejyMtt8KxA)
 - [企服快讯 | 进军企业数字化领域，滴普科技半年内累计完成近亿元融资](https://m.3wcoffee.com/qfnews/detail?id=1678&from=timeline&isappinstalled=0)
+- [OPPO与滴普科技共建中台达成深度合作，AI+中台助力企业数字化转型升级](https://mp.weixin.qq.com/s/Iq9AzmFRA8UAbEZwR60XBQ)
+- [#捷报频传#百果园集团牵手滴普科技：建设数字中台支撑品牌快速扩张](https://mp.weixin.qq.com/s/4jyHokPNlvZpA9EbQ1_tOw)
+- [#又又又一轮喜报#滴普科技与万客达成合作：以中台建设实现多品牌孵化能力](https://mp.weixin.qq.com/s?__biz=Mzg5MTE4NjAyMQ==&mid=2247483855&idx=1&sn=86b7e2a94d827bc1d5b3e143c12f27ff&chksm=cfd07fc5f8a7f6d3eae49c7f896517a27d80aa5fe81fb8a907d93bd19255de04b646564d1a0b&xtrack=1&scene=90&subscene=93&sessionid=1561701855&clicktime=1561701858&ascene=56&devicetype=android-28&version=2700043c&nettype=cmnet&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4AwpkeANyZHgD6mR4ACZoeAAAA&lang=zh_CN&pass_ticket=%2B6E2U3ORXtECvZKEVBU%2BkNZpMvHjD8Xh%2Fjl003Fm4kQLjOoFoAk3RLzmLKbM9DuA&wx_header=1)
 
 ### 相关链接
 
 - [我们的github](https://github.com/FEMessage)
 - [github博客](https://femessage.github.io/blog/)
 - [知乎专栏](https://zhuanlan.zhihu.com/deepexi-frontend)
-
-更多文章：
-
-- [📦vue组件发布npm最佳实践](https://github.com/levy9527/blog/issues/2)
-- [🐠从零开始Docker化你的Node.js应用](https://github.com/levy9527/blog/issues/3)
-- [Github集成Travis CI](https://github.com/levy9527/blog/issues/1)
-- [我们的GIT工作流](https://juejin.im/post/5b1f35e4e51d4506a269c23b)
-- [zhengrunlin的博客](https://www.cnblogs.com/zhengrunlin)
-- [edgar的博客](https://chenedgar.github.io/)
-- [FPioneer的博客](https://juejin.im/user/5bf34a676fb9a04a0440a0f7)
 
 欢迎来参与开源贡献、书写高质量文章回馈社区。
 
