@@ -1,6 +1,6 @@
 # 中级题目
 
-重构[exam-intermediate.js](exam-intermediate.js)
+重构[exam-intermediate.js](https://github.com/FEMessage/hire/blob/master/exam-intermediate.js)
 
 
 
