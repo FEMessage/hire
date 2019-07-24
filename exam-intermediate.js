@@ -1,7 +1,7 @@
 const crypto  = require("crypto");
 const request = require("request");
 
-const url             = 'https://easy-mock.com/mock/5bbefdf6faedce31cd6a5261/example/exam-intermediate';
+const url             = 'https://dm.aliyuncs.com/';
 
 module.exports = function (config, cb) {
     const nonce           = Date.now();
