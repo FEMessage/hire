@@ -1,3 +1,5 @@
+# 职位描述
+
 ## 介绍
 
 一句话介绍我们的产品：面向大型企业的DevOps平台。
@@ -21,15 +23,7 @@
 - [#捷报频传#百果园集团牵手滴普科技：建设数字中台支撑品牌快速扩张](https://mp.weixin.qq.com/s/4jyHokPNlvZpA9EbQ1_tOw)
 - [#又又又一轮喜报#滴普科技与万客达成合作：以中台建设实现多品牌孵化能力](https://mp.weixin.qq.com/s?__biz=Mzg5MTE4NjAyMQ==&mid=2247483855&idx=1&sn=86b7e2a94d827bc1d5b3e143c12f27ff&chksm=cfd07fc5f8a7f6d3eae49c7f896517a27d80aa5fe81fb8a907d93bd19255de04b646564d1a0b&xtrack=1&scene=90&subscene=93&sessionid=1561701855&clicktime=1561701858&ascene=56&devicetype=android-28&version=2700043c&nettype=cmnet&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4AwpkeANyZHgD6mR4ACZoeAAAA&lang=zh_CN&pass_ticket=%2B6E2U3ORXtECvZKEVBU%2BkNZpMvHjD8Xh%2Fjl003Fm4kQLjOoFoAk3RLzmLKbM9DuA&wx_header=1)
 
-### 相关链接
-
-- [我们的github](https://github.com/FEMessage)
-- [github博客](https://femessage.github.io/blog/)
-- [知乎专栏](https://zhuanlan.zhihu.com/deepexi-frontend)
-
-欢迎来参与开源贡献、书写高质量文章回馈社区。
-
-### 技能
+## 技能
 
 项目中用 ES6、Vue、Flutter、uni-app、Storybook、Styleguidist、Node、Nuxt、Yapi 、Rollup、Webpack,、Yarn、Markdown、Git
 
@@ -46,7 +40,7 @@
 - 对美（程序、设计）有追求
 - 乐于分享
 
-### 方向
+## 方向
 
 - PC
 - Mobile
@@ -59,7 +53,7 @@
 
 尊重个人意愿，能力匹配者可自由选择
 
-### 待遇
+## 待遇
 
 - 高于业界水平的待遇，12 - 15 个月
 - 试用期：3个月，薪资100%
@@ -68,15 +62,3 @@
 - 双屏工作
 - 免费读书计划
 - 长期培训课程
-
-## 团队风采
-
-- 技术分享
-
-![技术分享](https://i.screenshot.net/prynrue)
-
-![测试团队](https://i.screenshot.net/73o18sd)
-
-- 下午茶
-
-![下午茶](https://i.screenshot.net/v6o86sd)
