@@ -9,6 +9,10 @@
 
 欢迎来参与开源贡献、书写高质量文章回馈社区。
 
+对组件有兴趣的，可以加入交流群
+
+![](https://user-images.githubusercontent.com/9384365/61931590-9c6e6c80-afb3-11e9-9c1f-0d61313a1bfb.png)
+
 ## 技术沉淀
 ![](https://cdn.nlark.com/yuque/0/2019/png/160590/1563954153217-b62c2c74-8c47-452a-9c2c-1670ae5dc8b3.png?x-oss-process=image/resize,w_1492)
 ![](https://cdn.nlark.com/yuque/0/2019/png/160590/1563954256070-9d01de5b-a43f-46d1-9fef-97167bd48444.png?x-oss-process=image/resize,w_1492)
