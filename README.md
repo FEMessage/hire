@@ -1,3 +1,9 @@
+## 关于我们
+
+- [博客](https://femessage.github.io/blog/)
+- [知乎](https://zhuanlan.zhihu.com/deepexi-frontend)
+- [Medium](http://medium.com/deepexi)
+
 ## 目录
 
 - **[初试题目](#初试题目)**
