@@ -1,8 +1,11 @@
-## 关于我们
+# 前端招聘
+请根据能力，选做其中一道题（级别越高，越能增加你脱颖而出的机率），能做多少做多少。
 
-- [博客](https://femessage.github.io/blog/)
-- [知乎](https://zhuanlan.zhihu.com/deepexi-frontend)
-- [Medium](http://medium.com/deepexi)
+与结果相比，过程更重要。
+
+在做题的过程中，我相信你也能学到一些东西，同时，后面的面试会轻松很多。
+
+如果不做，那也可以，只是后面的面试难度会增加。
 
 ## 目录
 
@@ -18,9 +21,13 @@
 > 
 > 关于我们请看[团队风采](team.md)
 
-## 初试题目
+相关链接:
 
-请根据能力，选择其中一道题（级别越高，越能增加你脱颖而出的机率）
+- [博客](https://femessage.github.io/blog/)
+- [知乎](https://zhuanlan.zhihu.com/deepexi-frontend)
+- [Medium](http://medium.com/deepexi)
+
+## 初试题目
 
 - [初级题目](exam-junior.md)
 - [中级题目](exam-intermediate.md)
