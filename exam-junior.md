@@ -2,7 +2,7 @@
 
 根据下面三个链接：
 
-- https://github.com/levy9527/nuxt-element-dashboard
+- https://github.com/FEMessage/create-nuxt-app
 - https://github.com/FEMessage/el-data-table
 - https://github.com/FEMessage/yapi
 
