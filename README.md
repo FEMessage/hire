@@ -39,8 +39,9 @@
 ## 要求
 
 我们的技术栈：
-- https://github.com/FEMessage/create-nuxt-app
-- https://github.com/FEMessage/vue-sfc-cli
+- [@femessage/create-nuxt-app](https://github.com/FEMessage/create-nuxt-app)
+- [vue-sfc-cli](https://github.com/FEMessage/vue-sfc-cli)
+- [我们自己的组件](https://github.com/FEMessage)
 - [PWA](https://pwa.nuxtjs.org/modules/workbox.html)
 - [Flutter](https://flutter.dev)
 - [Yapi](https://github.com/YMFE/yapi)
