@@ -14,6 +14,10 @@
 
 欢迎来参与开源贡献、书写高质量文章回馈社区。
 
+更多介绍请看[Job Description](job-description.md)
+
+常见问题请看[FAQ](FAQ.md)
+
 ## 技术沉淀
 ![](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e43h5a29j315g0lmgph.jpg)
 
