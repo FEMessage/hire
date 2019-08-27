@@ -12,6 +12,7 @@
 - [知乎](https://zhuanlan.zhihu.com/deepexi-frontend)
 - [Medium](http://medium.com/deepexi)
 - [常见问题请看FAQ](FAQ.md)
+- [招聘理念](https://deliveroo.engineering/2017/11/23/engineering-interviews.html)
 
 ## 介绍
 
