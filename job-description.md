@@ -28,14 +28,15 @@
 我们的技术栈：
 - https://github.com/FEMessage/create-nuxt-app
 - https://github.com/FEMessage/vue-sfc-cli
-- [yapi](https://github.com/YMFE/yapi)
+- [PWA](https://pwa.nuxtjs.org/modules/workbox.html)
+- [Flutter](https://flutter.dev)
+- [Yapi](https://github.com/YMFE/yapi)
 - [Easy-Mock](https://easy-mock.com)
 - [Yarn](https://yarnpkg.com)
 - [Gitlab](http://gitlab.com)
 - [Travis CI](https://travis-ci.com)
 - [Netlify](http://netlify.com)
 - [Aliyun OSS](https://www.aliyun.com/product/oss?spm=5176.12825654.eofdhaal5.13.e9392c4apQmSwE)
-
 
 不过技术只是工具，生活才是真正的追求。
 
@@ -45,12 +46,23 @@
 
 我们相信热爱生活、努力解决问题，让生活更美好的人，技术不会差到哪里去。
 
-**加分项：**
+以下是扣分项(只要有一项中了，那么你就不适合我们)：
+- 不会Git，不知道如何解决冲突
+- 无法翻墙，认为百度就够了
+- 编码规范什么的不重要，耽误时间
+- 文档不重要；没时间写，也不想写文档
+- 只管开发, 测试我不管
+
+以下是加分项(中的越多，就不要犹豫把简历投过来吧)：
 
 - 熟练在 Mac OS X / Linux 上开发
-- Github 有前端项目超过 100 star，或给大型项目贡献过代码
-- 写技术博客（或微信公众号）2 年以上，或者 50 篇以上
-- 有发布在生产使用的npm模块
+- 坚持写技术博客（或微信公众号），文章超过 10 篇
+- Github 有前端项目超过 200 star，或给大型项目贡献过代码
+- 英文了得，可以写英文文章
+- 可以在 stackoverflow 投赞成票
+- 有成熟上线的产品
+- 发布过npm模块，并且已被投入生产使用
+- 对新事物敏感，喜欢黑科技
 - 做的了设计，搞的了运维，你不仅仅是个前端
 - 风格细腻，注重细节
 - 对美（程序、设计）有追求
