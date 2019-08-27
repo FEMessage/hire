@@ -19,7 +19,15 @@
 常见问题请看[FAQ](FAQ.md)
 
 ## 技术沉淀
-![](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e43h5a29j315g0lmgph.jpg)
+![image-20190827135736842](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e730jzktj31wu0m61ds.jpg)
+
+![image-20190827135802352](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e73g2qtcj31wo0m818w.jpg)
+
+![image-20190827135716329](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e72mi8wrj31w20m6k1c.jpg)
+
+![image-20190827135645655](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e724rr7pj31wo0ly7lu.jpg)
+
+![image-20190827140106133](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e76nb0i0j31pw0u0wu3.jpg)
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e477inczj31ws0pwaf9.jpg)
 
