@@ -43,6 +43,7 @@
 - [@femessage/create-nuxt-app](https://github.com/FEMessage/create-nuxt-app)
 - [vue-sfc-cli](https://github.com/FEMessage/vue-sfc-cli)
 - [我们自己的组件](https://github.com/FEMessage)
+- [Jest](https://jestjs.io/docs/en/getting-started)
 - [PWA](https://pwa.nuxtjs.org/modules/workbox.html)
 - [Flutter](https://flutter.dev)
 - [Yapi](https://github.com/YMFE/yapi)
@@ -61,12 +62,12 @@
 
 我们相信热爱生活、努力解决问题，让生活更美好的人，技术不会差到哪里去。
 
-以下是扣分项(只要有一项中了，那么你就不适合我们)：
+以下是扣分项(只要有一项，那么就不适合我们)：
 - 不会Git，不知道如何解决冲突
 - 无法翻墙，认为百度就够了
 - 编码规范什么的不重要，耽误时间
-- 文档不重要；没时间写，也不想写文档
-- 只管开发, 测试我不管
+- 文档不重要；没时间写，也不想写
+- 只管开发, 不管测试
 
 以下是加分项(中的越多，就不要犹豫把简历投过来吧)：
 
