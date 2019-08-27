@@ -23,11 +23,27 @@
 - [#捷报频传#百果园集团牵手滴普科技：建设数字中台支撑品牌快速扩张](https://mp.weixin.qq.com/s/4jyHokPNlvZpA9EbQ1_tOw)
 - [#又又又一轮喜报#滴普科技与万客达成合作：以中台建设实现多品牌孵化能力](https://mp.weixin.qq.com/s?__biz=Mzg5MTE4NjAyMQ==&mid=2247483855&idx=1&sn=86b7e2a94d827bc1d5b3e143c12f27ff&chksm=cfd07fc5f8a7f6d3eae49c7f896517a27d80aa5fe81fb8a907d93bd19255de04b646564d1a0b&xtrack=1&scene=90&subscene=93&sessionid=1561701855&clicktime=1561701858&ascene=56&devicetype=android-28&version=2700043c&nettype=cmnet&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4AwpkeANyZHgD6mR4ACZoeAAAA&lang=zh_CN&pass_ticket=%2B6E2U3ORXtECvZKEVBU%2BkNZpMvHjD8Xh%2Fjl003Fm4kQLjOoFoAk3RLzmLKbM9DuA&wx_header=1)
 
-## 技能
+## 要求
 
-项目中用 ES6、Vue、Flutter、uni-app、Storybook、Styleguidist、Node、Nuxt、Yapi 、Rollup、Webpack,、Yarn、Markdown、Git
+我们的技术栈：
+- https://github.com/FEMessage/create-nuxt-app
+- https://github.com/FEMessage/vue-sfc-cli
+- [yapi](https://github.com/YMFE/yapi)
+- [Easy-Mock](https://easy-mock.com)
+- [Yarn](https://yarnpkg.com)
+- [Gitlab](http://gitlab.com)
+- [Travis CI](https://travis-ci.com)
+- [Netlify](http://netlify.com)
+- [Aliyun OSS](https://www.aliyun.com/product/oss?spm=5176.12825654.eofdhaal5.13.e9392c4apQmSwE)
 
-不过技术是浮云，生活才是真正的追求。希望能找到一起玩，顺路把事情给做起来的人。我们相信热爱生活的技术人，技术不会差到哪里。
+
+不过技术只是工具，生活才是真正的追求。
+
+我们希望你是能真正动手解决实际问题的人。
+
+同时，我们希望你有自己的兴趣爱好， 一起把事情做好，还能一起玩。
+
+我们相信热爱生活、努力解决问题，让生活更美好的人，技术不会差到哪里去。
 
 **加分项：**
 
