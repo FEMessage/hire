@@ -8,7 +8,7 @@
 
 ## 相关链接
 
-- [Github](https://github.com/FEMessage)
+- [Github](https://femessage.github.io/blog/)
 - [知乎](https://zhuanlan.zhihu.com/deepexi-frontend)
 - [Medium](http://medium.com/deepexi)
 - [常见问题请看FAQ](FAQ.md)
@@ -32,10 +32,16 @@
 
 媒体报道：
 - [“中国数据智能创新企业50强”榜单发布 滴普科技跻身 TOP20！](https://mp.weixin.qq.com/s/rem7T9MexzNlejyMtt8KxA)
-- [企服快讯 | 进军企业数字化领域，滴普科技半年内累计完成近亿元融资](https://m.3wcoffee.com/qfnews/detail?id=1678&from=timeline&isappinstalled=0)
+- [滴普科技跃升至“人工智能商业落地初创企业100强”榜单](https://mp.weixin.qq.com/s/WMYJaHf8M41YQRTz6OuyqA)
+- [进军企业数字化领域，滴普科技半年内累计完成近亿元融资](https://m.3wcoffee.com/qfnews/detail?id=1678&from=timeline&isappinstalled=0)
+- [滴普科技出席2019全球数字价值峰会，从价值视角谈企业数字化中台建设](https://mp.weixin.qq.com/s/HlxhNLUwN1ydiTAOI7CuQQ)
+- [滴普科技荣获 “2019年度数据化转型领域最具影响力企业”奖](https://mp.weixin.qq.com/s/IAd_E30PJr-Yv-9CfrpDYA)
+
+客户合作：
 - [OPPO与滴普科技共建中台达成深度合作，AI+中台助力企业数字化转型升级](https://mp.weixin.qq.com/s/Iq9AzmFRA8UAbEZwR60XBQ)
-- [#捷报频传#百果园集团牵手滴普科技：建设数字中台支撑品牌快速扩张](https://mp.weixin.qq.com/s/4jyHokPNlvZpA9EbQ1_tOw)
-- [#又又又一轮喜报#滴普科技与万客达成合作：以中台建设实现多品牌孵化能力](https://mp.weixin.qq.com/s?__biz=Mzg5MTE4NjAyMQ==&mid=2247483855&idx=1&sn=86b7e2a94d827bc1d5b3e143c12f27ff&chksm=cfd07fc5f8a7f6d3eae49c7f896517a27d80aa5fe81fb8a907d93bd19255de04b646564d1a0b&xtrack=1&scene=90&subscene=93&sessionid=1561701855&clicktime=1561701858&ascene=56&devicetype=android-28&version=2700043c&nettype=cmnet&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4AwpkeANyZHgD6mR4ACZoeAAAA&lang=zh_CN&pass_ticket=%2B6E2U3ORXtECvZKEVBU%2BkNZpMvHjD8Xh%2Fjl003Fm4kQLjOoFoAk3RLzmLKbM9DuA&wx_header=1)
+- [百果园集团牵手滴普科技：建设数字中台支撑品牌快速扩张](https://mp.weixin.qq.com/s/4jyHokPNlvZpA9EbQ1_tOw)
+- [万客与滴普科技达成合作：以中台建设实现多品牌孵化能力](https://mp.weixin.qq.com/s?__biz=Mzg5MTE4NjAyMQ==&mid=2247483855&idx=1&sn=86b7e2a94d827bc1d5b3e143c12f27ff&chksm=cfd07fc5f8a7f6d3eae49c7f896517a27d80aa5fe81fb8a907d93bd19255de04b646564d1a0b&xtrack=1&scene=90&subscene=93&sessionid=1561701855&clicktime=1561701858&ascene=56&devicetype=android-28&version=2700043c&nettype=cmnet&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4AwpkeANyZHgD6mR4ACZoeAAAA&lang=zh_CN&pass_ticket=%2B6E2U3ORXtECvZKEVBU%2BkNZpMvHjD8Xh%2Fjl003Fm4kQLjOoFoAk3RLzmLKbM9DuA&wx_header=1)
+- [妍丽携手滴普科技打造美妆行业数字化建设新标杆](https://mp.weixin.qq.com/s/VBbJH9ok7DmcffOlueaL1Q)
 
 ## 要求
 
