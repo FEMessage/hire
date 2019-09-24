@@ -35,11 +35,12 @@
 官网：[http://www.deepexi.com/](http://www.deepexi.com/)
 
 媒体报道：
+- [滴普科技完成3500万美元A轮融资](https://www.iyiou.com/p/113481.html?share_from=6cddc10viBwysqSILCxOfFHND5o6IHY9HJaB4GGt0VgDJYffBea5g8Lq6WpXZ_GA0cKzyKNvrVj0uRQEpTsbrveh4Sf-N3YMoqhc-TfygFlifsOx1-tWGvYxYw)
+- [滴普科技荣获 “2019年度数据化转型领域最具影响力企业”奖](https://mp.weixin.qq.com/s/IAd_E30PJr-Yv-9CfrpDYA)
+- [滴普科技出席2019全球数字价值峰会，从价值视角谈企业数字化中台建设](https://mp.weixin.qq.com/s/HlxhNLUwN1ydiTAOI7CuQQ)
 - [“中国数据智能创新企业50强”榜单发布 滴普科技跻身 TOP20！](https://mp.weixin.qq.com/s/rem7T9MexzNlejyMtt8KxA)
 - [滴普科技跃升至“人工智能商业落地初创企业100强”榜单](https://mp.weixin.qq.com/s/WMYJaHf8M41YQRTz6OuyqA)
 - [进军企业数字化领域，滴普科技半年内累计完成近亿元融资](https://m.3wcoffee.com/qfnews/detail?id=1678&from=timeline&isappinstalled=0)
-- [滴普科技出席2019全球数字价值峰会，从价值视角谈企业数字化中台建设](https://mp.weixin.qq.com/s/HlxhNLUwN1ydiTAOI7CuQQ)
-- [滴普科技荣获 “2019年度数据化转型领域最具影响力企业”奖](https://mp.weixin.qq.com/s/IAd_E30PJr-Yv-9CfrpDYA)
 
 客户合作：
 - [OPPO与滴普科技共建中台达成深度合作，AI+中台助力企业数字化转型升级](https://mp.weixin.qq.com/s/Iq9AzmFRA8UAbEZwR60XBQ)
