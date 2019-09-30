@@ -32,7 +32,7 @@
 
 工作地点：广州，成都，南京，北京
 
-官网：[http://www.deepexi.com/](http://www.deepexi.com/)
+官网：[https://cloud.deepexi.com/](https://cloud.deepexi.com/#/)
 
 媒体报道：
 - [滴普科技完成3500万美元A轮融资](https://www.iyiou.com/p/113481.html?share_from=6cddc10viBwysqSILCxOfFHND5o6IHY9HJaB4GGt0VgDJYffBea5g8Lq6WpXZ_GA0cKzyKNvrVj0uRQEpTsbrveh4Sf-N3YMoqhc-TfygFlifsOx1-tWGvYxYw)
