@@ -642,6 +642,13 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
+"@femessage/v-img@^0.5.9":
+  version "0.5.9"
+  resolved "http://levy.ren:4873/@femessage%2fv-img/-/v-img-0.5.9.tgz#c71dc22f4d9f2c0ed163b366fbb02a4030dbfaeb"
+  integrity sha512-nbhLNv0JPHeZXpS58jWcxymMHNmmVAGYk42arzcuUySjqsblsRG7AjPQfD5iGuaL8TS1lleo24xG43fO+mBPHQ==
+  dependencies:
+    lazysizes "^5.1.1"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.npm.taobao.org/@mrmlnc/readdir-enhanced/download/@mrmlnc/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -3642,6 +3649,11 @@ latest-version@^3.0.0:
   resolved "https://registry.npm.taobao.org/latest-version/download/latest-version-3.1.0.tgz#a205383fea322b33b5ae3b18abee0dc2f356ee15"
   dependencies:
     package-json "^4.0.0"
+
+lazysizes@^5.1.1:
+  version "5.1.2"
+  resolved "http://levy.ren:4873/lazysizes/-/lazysizes-5.1.2.tgz#1baf41b8f3f2aef1054120e41c6efd0e83d417a3"
+  integrity sha512-j9hQgryLCwQ0EGRr282RS6h3UHLbJnbaS/VfrADOvduhfnFpmcsdPVygdWrlu1hsYgKTjhOiLCVI75RKd3fsvg==
 
 linkify-it@^2.0.0:
   version "2.1.0"

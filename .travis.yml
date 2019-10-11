@@ -6,6 +6,7 @@ git:
 install:
 - yarn
 script:
+- yarn transform
 - yarn build
 cache: yarn
 deploy:
