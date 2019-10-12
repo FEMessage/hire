@@ -642,10 +642,10 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
-"@femessage/v-img@^0.5.9":
-  version "0.5.9"
-  resolved "http://levy.ren:4873/@femessage%2fv-img/-/v-img-0.5.9.tgz#c71dc22f4d9f2c0ed163b366fbb02a4030dbfaeb"
-  integrity sha512-nbhLNv0JPHeZXpS58jWcxymMHNmmVAGYk42arzcuUySjqsblsRG7AjPQfD5iGuaL8TS1lleo24xG43fO+mBPHQ==
+"@femessage/v-img@^0.6.0":
+  version "0.6.0"
+  resolved "http://levy.ren:4873/@femessage%2fv-img/-/v-img-0.6.0.tgz#02a2f6e95a698228b21dc48ba80031f425cb53d2"
+  integrity sha512-Y/UQwy/IhhNZMvkLVjnnxJl+pkgoV6ucHxhQI4beAKxS2Nj5Q/iNXw+qj/Vx26/L2uM+zx1iPCw7OH73f18A0w==
   dependencies:
     lazysizes "^5.1.1"
 
