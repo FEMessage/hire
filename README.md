@@ -7,6 +7,7 @@
 如果没有代码可看，[请选择一道题来做](exam.md)。
 
 这里的重点是：`show me the code`，这点是不变的，其它都是可变的：
+- 不想做题，那就找出自己以前写的代码，看一看其中的亮点
 - 觉得题目不合适，那就跟面试官沟通，换题目
 - 距离不方便，无法面对面沟通，那就打电话
 
@@ -22,7 +23,7 @@
 
 一句话介绍我们的产品：面向大型企业的DevOps平台。
 
-所以我们面向的都是大B客户，我们给企业提供平台，工具，提高他们的研发，运维效率，帮他们做微服务架构，给企业做中台，加速企业的数字化转型。
+官网：[https://cloud.deepexi.com/](https://cloud.deepexi.com/#/)
 
 公司正值稳定上升期，目前需要这样的人才：
 
@@ -30,9 +31,9 @@
 - 工程能力突出，业务梳理能力强，能把复杂的逻辑理顺，让事情井然有序，在实践中解决问题的人, 在业务中独当一面;
 - 坚持写作的人，因为我们经常写邮件、写文档、写计划、写博客，我希望我的团队成员能够写。
 
-工作地点：广州，成都，南京，北京
+总结就是：如果只会写代码，那不适合我们。
 
-官网：[https://cloud.deepexi.com/](https://cloud.deepexi.com/#/)
+工作地点：广州，成都，南京，北京
 
 媒体报道：
 - [滴普科技完成3500万美元A轮融资](https://www.iyiou.com/p/113481.html?share_from=6cddc10viBwysqSILCxOfFHND5o6IHY9HJaB4GGt0VgDJYffBea5g8Lq6WpXZ_GA0cKzyKNvrVj0uRQEpTsbrveh4Sf-N3YMoqhc-TfygFlifsOx1-tWGvYxYw)
@@ -49,6 +50,8 @@
 - [妍丽携手滴普科技打造美妆行业数字化建设新标杆](https://mp.weixin.qq.com/s/VBbJH9ok7DmcffOlueaL1Q)
 
 ## 要求
+
+一句话概括：我们需要的不仅仅是会写代码的人。
 
 我们的技术栈：
 - [@femessage/create-nuxt-app](https://github.com/FEMessage/create-nuxt-app)
@@ -73,7 +76,7 @@
 
 我们相信热爱生活、努力解决问题，让生活更美好的人，技术不会差到哪里去。
 
-以下是扣分项(只要有一项，那么就不适合我们)：
+以下是扣分项：
 - 不会Git，不知道如何解决冲突
 - 无法翻墙，认为百度就够了
 - 没有用过正版软件，坚持用盗版
