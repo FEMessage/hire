@@ -24,6 +24,6 @@
     "vuepress": "^0.14.11"
   },
   "dependencies": {
-    "@femessage/v-img": "^0.6.4"
+    "@femessage/v-img": "^0.6.5"
   }
 }
