@@ -56,12 +56,13 @@
 
 ### 做题例子
 
-![](https://i.screenshot.net/68164uz)
-![](https://i.screenshot.net/kd3wni0)
-![](https://i.screenshot.net/36dkjcj)
+![](https://i.loli.net/2019/11/15/KWyuOsUFRVD8oLZ.jpg)
+![](https://i.loli.net/2019/11/15/IyxjqUF27valOiS.jpg)
+![](https://i.loli.net/2019/11/15/xadCufm2j6EvPyS.jpg)
 
 ### 偷懒例子
 
-![](https://i.screenshot.net/jr8egcr)
+![](https://i.loli.net/2019/11/15/fP5v1FrdRcLEDGK.jpg)
+![](https://i.loli.net/2019/11/15/JC9pqiEQB45uFXn.jpg)
 
-![](https://i.screenshot.net/3v5mrc6)[⬆ Back to Top](#目录)
+[⬆ Back to Top](#目录)
