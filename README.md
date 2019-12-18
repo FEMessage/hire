@@ -13,7 +13,7 @@
 
 ## 相关链接
 
-- [Github](https://femessage.github.io/blog/)
+- [Github](https://github.com/FEMessage)
 - [知乎](https://zhuanlan.zhihu.com/deepexi-frontend)
 - [Medium](http://medium.com/deepexi)
 - [常见问题请看FAQ](FAQ.md)
@@ -98,6 +98,14 @@
 - 风格细腻，注重细节
 - 对美（程序、设计）有追求
 - 乐于分享
+
+## Core Team
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="https://github.com/levy9527/blog"><img src="https://avatars3.githubusercontent.com/u/9384365?v=4" width="100px;" alt="levy"/><br /><sub><b>levy</b></sub></a><br /></td><td align="center"><a href="https://evila.me"><img src="https://avatars3.githubusercontent.com/u/19513289?v=4" width="100px;" alt="EVILLT"/><br /><sub><b>EVILLT</b></sub></a><br /></td><td align="center"><a href="https://donaldshen.github.io/portfolio"><img src="https://avatars3.githubusercontent.com/u/19591950?v=4" width="100px;" alt="Donald Shen"/><br /><sub><b>Donald Shen</b></sub></a><br /></td><td align="center"><a href="https://github.com/lianghx-319"><img src="https://avatars2.githubusercontent.com/u/27187946?v=4" width="100px;" alt="Han"/><br /><sub><b>Han</b></sub></a><br /></td><td align="center"><a href="https://colmugx.github.io"><img src="https://avatars1.githubusercontent.com/u/21327913?v=4" width="100px;" alt="ColMugX"/><br /><sub><b>ColMugX</b></sub></a><br /></td><td align="center"><a href="https://github.com/snowlocked"><img src="https://avatars0.githubusercontent.com/u/19562649?v=4" width="100px;" alt="snowlocked"/><br /><sub><b>snowlocked</b></sub></a><br /></td><td align="center"><a href="https://coldstone.fun"><img src="https://avatars1.githubusercontent.com/u/18013127?v=4" width="100px;" alt="Cold Stone"/><br /><sub><b>Cold Stone</b></sub></a><br /></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 技术沉淀
 ![image-20190827135736842](https://tva1.sinaimg.cn/large/006y8mN6gy1g6e730jzktj31wu0m61ds.jpg)
